@@ -2,13 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Unite Theme Russia\n"
 "POT-Creation-Date: 2014-11-02 14:56+0200\n"
-"PO-Revision-Date: 2014-11-22 21:38+0500\n"
+"PO-Revision-Date: 2015-01-18 00:41+0500\n"
 "Last-Translator: Anatoly <a.yumashev@gmail.com>\n"
 "Language-Team: Sistemo <s@sistemo.ru>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 1.7.3\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: _e;__;esc_attr__;_nx:4c,1,2;_n:1,2\n"
@@ -18,22 +18,22 @@ msgstr ""
 
 #: ../404.php:15
 msgid "Oops! That page can&rsquo;t be found."
-msgstr ""
+msgstr "Упс! Такой страницы не нашлось."
 
 #: ../404.php:19
 msgid ""
 "It looks like nothing was found at this location. Maybe try one of the links "
 "below or a search?"
-msgstr ""
+msgstr "Может быть попробовать другую ссылку или поискать нужную страницу?"
 
 #: ../404.php:27
 msgid "Most Used Categories"
-msgstr ""
+msgstr "Наиболее популярные категории"
 
 #: ../404.php:44
 #, php-format
 msgid "Try looking in the monthly archives. %1$s"
-msgstr ""
+msgstr "Попробуй посмотреть посты по месяцам. %1$s"
 
 #: ../archive.php:27
 #, php-format
@@ -159,11 +159,11 @@ msgstr ""
 
 #: ../content.php:24
 msgid "Continue reading"
-msgstr ""
+msgstr "Читать далее..."
 
 #: ../content.php:30
 msgid "Continue reading <i class=\"fa fa-chevron-right\"></i>"
-msgstr ""
+msgstr "Продолжить чтение <i class=\"fa fa-chevron-right\"></i>"
 
 #: ../content.php:52 ../content.php:62
 #, php-format
