@@ -1,10 +1,60 @@
 /*
 Theme Name:     unite Sistemo Theme
 Template:       unite
-Version:        20141122
+Version:        20150108
 GitHub Theme URI:	https://github.com/sistemo/unite-child
 GitHub Branch:	master
 
 */
 
 @import url("../unite/style.css");
+
+
+/* ###################################
+Общие
+*/
+.panel-grid .panel {
+background-color: transparent;
+-webkit-box-shadow: 0 0 0 transparent;
+box-shadow: 0 0 0 transparent;
+}
+
+hr.section-divider:after {
+content: "\2212";
+}
+
+/* ###################################
+Шапка
+*/
+
+
+.navbar {
+!margin-bottom: 0px;
+}
+
+#masthead {
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+#header-widget-2 {
+font-size: 20px;
+padding-top: 22px;
+}
+
+/* ###################################
+Посадки
+*/
+
+.page-template-page-fullwidth-notitle .entry-meta {
+display: none;
+}
+
+.page-template-page-fullwidth-notitle .navbar,
+.page-template-page-fullwidth-notitle .hentry {
+margin-bottom: 0px;
+}
+
+.page-template-page-fullwidth-notitle #colophon {
+margin-top: 0px;
+}
