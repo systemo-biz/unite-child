@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Unite Theme Russia\n"
 "POT-Creation-Date: 2014-11-02 14:56+0200\n"
-"PO-Revision-Date: 2015-01-18 00:41+0500\n"
+"PO-Revision-Date: 2015-04-13 16:50+0300\n"
 "Last-Translator: Anatoly <a.yumashev@gmail.com>\n"
 "Language-Team: Sistemo <s@sistemo.ru>\n"
 "MIME-Version: 1.0\n"
@@ -38,7 +38,7 @@ msgstr "Попробуй посмотреть посты по месяцам. %1
 #: ../archive.php:27
 #, php-format
 msgid "Author: %s"
-msgstr ""
+msgstr "Автор: %s"
 
 #: ../archive.php:30
 #, php-format
@@ -93,7 +93,7 @@ msgstr ""
 
 #: ../archive.php:66 ../sidebar.php:17
 msgid "Archives"
-msgstr ""
+msgstr "Архивы"
 
 #: ../comments.php:30
 #, php-format
@@ -109,19 +109,19 @@ msgstr ""
 
 #: ../comments.php:38 ../comments.php:62
 msgid "&larr; Older Comments"
-msgstr ""
+msgstr "&larr; Старые комментарии"
 
 #: ../comments.php:39 ../comments.php:63
 msgid "Newer Comments &rarr;"
-msgstr ""
+msgstr "Новые комментарии &rarr;"
 
 #: ../comments.php:73
 msgid "Comments are closed."
-msgstr ""
+msgstr "Комментарии закрыты."
 
 #: ../content-none.php:13
 msgid "Nothing Found"
-msgstr ""
+msgstr "Ничего не найдено"
 
 #: ../content-none.php:19
 #, php-format
@@ -134,6 +134,8 @@ msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
+"К сожалению, ничего не найдено по вашему запросу. Пожалуйста, попробуйте еще "
+"раз с другими ключевыми словами."
 
 #: ../content-none.php:28
 msgid ""
@@ -151,6 +153,10 @@ msgstr "Страницы:"
 #: ../inc/template-tags.php:100
 msgid "Edit"
 msgstr "Изменить"
+
+#: ../content-single.php
+msgid "permalink"
+msgstr "постоянная ссылка"
 
 #: ../content-single.php:32 ../content-single.php:35 ../content.php:48
 #: ../content.php:58
@@ -916,7 +922,7 @@ msgstr ""
 
 #: ../options.php:332
 msgid "Custom CSS"
-msgstr ""
+msgstr "Пользовательский CSS"
 
 #: ../options.php:333
 msgid "Additional CSS"
